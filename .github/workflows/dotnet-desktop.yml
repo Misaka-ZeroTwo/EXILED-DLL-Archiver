@@ -30,4 +30,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: EXILED-DLL-Archiver.exe
-          path: bin/Release/EXILED-DLL-Archiver.exe
+          path: EXILED-DLL-Archiver/bin/Release/EXILED-DLL-Archiver.exe
